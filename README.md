@@ -30,22 +30,22 @@ See [changelog](CHANGELOG.md)
 
 ## Basic Features
 
--  Mobile Friendly
+-  Mobile Friendly  
 Since a majority of people rely on their phones to conduct internet searches, it is important that your page be able to properly adjust on mobile devices.
 
-- Bootstrap Ready
+- Bootstrap Ready  
 Using a bootstrap based WordPress theme allows for a quicker loading time and an easy to view layout that adjust to fit the screen it is being accessed on.
 
-- Custom Colors
+- Custom Colors  
 The Housepress bootstrap WordPress theme allows you to create a visually appealing, professional web page that is mobile friendly and easy to navigate.
 
-- Custom Header
+- Custom Header  
 The Housepress bootstrap WordPress theme allows you to create a visually appealing, professional web page that is mobile friendly and easy to navigate.
 
-- Editor Style
+- Editor Style  
 The Housepress bootstrap WordPress theme allows you to create a visually appealing, professional web page that is mobile friendly and easy to navigate.
 
-- Grid Layout
+- Grid Layout  
 The Housepress bootstrap WordPress theme allows you to create a visually appealing, professional web page that is mobile friendly and easy to navigate.
 
 ## Installation
@@ -77,14 +77,14 @@ There are several ways to install housepress. We'll look at three of them: (1) c
 - normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2015 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
 - {TGM Plugin Activation} library is licensed under the GPL-2.0, https://github.com/TGMPA/TGM-Plugin-Activation/
 
-# Bootstrap
+### Bootstrap
 
 - All files from the /bootstrap folder are from the Bootstrap v3.3.6 package.
 - Resource URI: http://getbootstrap.com/
-- Copyright: 2011-2015 Twitter, Inc
+- Copyright: 2011-2018 Twitter, Inc
 - Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
-# Image Used
+### Image Used
 - no-blog-thumbnail.jpg CC0 , Phantomthemes
 - topbar.png CC0, Phantomthemes
 
