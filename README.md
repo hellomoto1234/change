@@ -1,6 +1,6 @@
 #### See: [Official Demo](https://phantomthemes.com/view?theme=HousePress) | Read: [Official Docs Page](https://phantomthemes.com/house-press-doc/)
 
-# Housepress WordPress Theme Framework
+# Housepress Free Bootstrap Wordpress Theme 
 
 Website: [https://phantomthemes.com](https://phantomthems.com)
 
@@ -49,7 +49,7 @@ The Housepress bootstrap WordPress theme allows you to create a visually appeali
 The Housepress bootstrap WordPress theme allows you to create a visually appealing, professional web page that is mobile friendly and easy to navigate.
 
 ## Installation
-There are several ways to install housepress. We'll look at three of them: (1) classic install by uploading phantomthemes to a WordPress install, (2) using npm, and (3) using the theme directory in WordPress. 
+There are several ways to install housepress. We'll look at three of them: (1) classic install by uploading phantomthemes to a WordPress install,and (2) using the theme directory in WordPress. 
 
 ### Classic install
 - Download the housepress folder from GitHub or from [https://phantomthemes.com/items/housepress-wordpress-theme/](https://phantomthemes.com/items/housepress-wordpress-theme/)
@@ -58,10 +58,6 @@ There are several ways to install housepress. We'll look at three of them: (1) c
 - Go to Appearance → Themes
 - Activate the housepress theme
 
-### npm install
-- Open your terminal
-- Change to the directory where you want to add housepress
-- Type `npm install housepress`
 
 ### WordPress.org install
 - Open your WordPress backend
